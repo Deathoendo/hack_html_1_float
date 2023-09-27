@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    background-color: #ffffff;
+}
+
+*::after, 
+*::before {box-sizing: inherit;}
+
+.b0 {
+    width: 100%;
+    height: 150px;
+    background-color: #93B5C9;
+}
+
+.b1 {
+    background-color: #AB2849;
+    height: 300px;
+}
+
+section {
+    background-color: #AB2849;
+    width: 75%;
+    height: 200px;
+    float: right;
+    margin-top: 20px;
+}
+
+footer {
+    background-color: #AB2849;
+    width: 75%;
+    height: 150px;
+    float: left;
+    margin: 20px 0 0 200px;
+}
+
